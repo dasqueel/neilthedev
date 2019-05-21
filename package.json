@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "neil-the-dev",
+  "description": "Neil the Dev landing page",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Neil Barduson",
   "dependencies": {
+    "email-templates": "^5.0.5",
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
@@ -29,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/dasqueel/neil-the-dev"
   }
 }
